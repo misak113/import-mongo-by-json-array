@@ -1,0 +1,300 @@
+[
+{
+    "id" : 1,
+    "firstName" : "Josef",
+    "lastName" : "Novák",
+    "customerValue" : 9,
+    "membershipLevel" : {
+        "id" : 1,
+        "name" : "Platinový zákazník",
+        "customerValue" : {
+            "minimum" : 8,
+            "maximum" : 10
+        }
+    }
+} ,
+
+{
+    "id" : 2,
+    "firstName" : "Josef",
+    "lastName" : "Kopelent",
+    "customerValue" : 3.5,
+    "membershipLevel" : {
+        "id" : 4,
+        "name" : "Bronzový zákazník",
+        "customerValue" : {
+            "minimum" : 3,
+            "maximum" : 4
+        }
+    }
+} , 
+ 
+{
+    "id" : 3,
+    "firstName" : "Aneta",
+    "lastName" : "Černá",
+    "customerValue" : 6.5,
+    "membershipLevel" : {
+        "id" : 2,
+        "name" : "Zlatý zákazník",
+        "customerValue" : {
+            "minimum" : 6,
+            "maximum" : 8
+        }
+    }
+} , 
+
+{
+    "id" : 4,
+    "firstName" : "Marie",
+    "lastName" : "Tománková",
+    "customerValue" : 7.5,
+    "membershipLevel" : {
+        "id" : 2,
+        "name" : "Zlatý zákazník",
+        "customerValue" : {
+            "minimum" : 6,
+            "maximum" : 8
+        }
+    }
+} , 
+{
+    "id" : 5,
+    "firstName" : "Petr",
+    "lastName" : "Nekonečný",
+    "customerValue" : 4.3,
+    "membershipLevel" : {
+        "id" : 3,
+        "name" : "Stříbrný zákazník",
+        "customerValue" : {
+            "minimum" : 4,
+            "maximum" : 6
+        }
+    }
+} ,
+
+{
+    "id" : 6,
+    "firstName" : "Lenka",
+    "lastName" : "Veselá",
+    "customerValue" : 0.3,
+    "membershipLevel" : {
+        "id" : 5,
+        "name" : "Bramborový zákazník",
+        "customerValue" : {
+            "minimum" : 0,
+            "maximum" : 2
+        }
+    }
+} , 
+{
+    "id" : 7,
+    "firstName" : "Jana",
+    "lastName" : "Smutná",
+    "customerValue" : 6.4,
+    "membershipLevel" : {
+        "id" : 2,
+        "name" : "Zlatý zákazník",
+        "customerValue" : {
+            "minimum" : 6,
+            "maximum" : 8
+        }
+    }
+} ,
+
+{
+    "id" : 8,
+    "firstName" : "Hana",
+    "lastName" : "Vítovcová",
+    "customerValue" : 2.2,
+    "membershipLevel" : {
+        "id" : 4,
+        "name" : "Bronzový zákazník",
+        "customerValue" : {
+            "minimum" : 2,
+            "maximum" : 4
+        }
+    }
+} , 
+
+{
+    "id" : 9,
+    "firstName" : "Tomáš",
+    "lastName" : "Hrečka",
+    "customerValue" : 4.4,
+    "membershipLevel" : {
+        "id" : 3,
+        "name" : "Stříbrný zákazník",
+        "customerValue" : {
+            "minimum" : 4,
+            "maximum" : 6
+        }
+    }
+} , 
+
+{
+    "id" : 10,
+    "firstName" : "David",
+    "lastName" : "Starý",
+    "customerValue" : 5.6,
+    "membershipLevel" : {
+        "id" : 3,
+        "name" : "Stříbrný zákazník",
+        "customerValue" : {
+            "minimum" : 4,
+            "maximum" : 6
+        }
+    }
+} , 
+
+{
+    "id" : 11,
+    "firstName" : "Kristýna",
+    "lastName" : "Jandová",
+    "customerValue" : 7.8,
+    "membershipLevel" : {
+        "id" : 2,
+        "name" : "Zlatý zákazník",
+        "customerValue" : {
+            "minimum" : 6,
+            "maximum" : 8
+        }
+    }
+} ,
+
+{
+    "id" : 12,
+    "firstName" : "Monika",
+    "lastName" : "Javorská",
+    "customerValue" : 2.3,
+    "membershipLevel" : {
+        "id" : 4,
+        "name" : "Bronzový zákazník",
+        "customerValue" : {
+            "minimum" : 2,
+            "maximum" : 4
+        }
+    }
+}, 
+
+{
+    "id" : 13,
+    "firstName" : "Vojtěch",
+    "lastName" : "Janeček",
+    "customerValue" : 1.2,
+    "membershipLevel" : {
+        "id" : 5,
+        "name" : "Bramborový zákazník",
+        "customerValue" : {
+            "minimum" : 0,
+            "maximum" : 2
+        }
+    }
+}  ,
+
+{
+    "id" : 14,
+    "firstName" : "Petra",
+    "lastName" : "Matoušová",
+    "customerValue" : 0.9,
+    "membershipLevel" : {
+        "id" : 5,
+        "name" : "Bramborový zákazník",
+        "customerValue" : {
+            "minimum" : 0,
+            "maximum" : 2
+        }
+    }
+}, 
+
+{
+    "id" : 15,
+    "firstName" : "Martina",
+    "lastName" : "Valdmanová",
+    "customerValue" : 2.5,
+    "membershipLevel" : {
+        "id" : 4,
+        "name" : "Bronzový zákazník",
+        "customerValue" : {
+            "minimum" : 2,
+            "maximum" : 4
+        }
+    }
+}  , 
+
+{
+    "id" : 16,
+    "firstName" : "Klára",
+    "lastName" : "Kolářová",
+    "customerValue" : 5.6,
+    "membershipLevel" : {
+        "id" : 3,
+        "name" : "Stříbrný zákazník",
+        "customerValue" : {
+            "minimum" : 4,
+            "maximum" : 6
+        }
+    }
+},
+
+
+{
+    "id" : 17,
+    "firstName" : "Pavel",
+    "lastName" : "Netrval",
+    "customerValue" : 4.3,
+    "membershipLevel" : {
+        "id" : 4,
+        "name" : "Stříbrný zákazník",
+        "customerValue" : {
+            "minimum" : 4,
+            "maximum" : 6
+        }
+    }
+}, 
+
+{
+    "id" : 18,
+    "firstName" : "Simona",
+    "lastName" : "Tršová",
+    "customerValue" : 3.4,
+    "membershipLevel" : {
+        "id" : 4,
+        "name" : "Bronzový zákazník",
+        "customerValue" : {
+            "minimum" : 2,
+            "maximum" : 4
+        }
+    }
+}, 
+
+{
+    "id" : 19,
+    "firstName" : "Jiří",
+    "lastName" : "Jarošík",
+    "customerValue" : 3,
+    "membershipLevel" : {
+        "id" : 4,
+        "name" : "Bronzový zákazník",
+        "customerValue" : {
+            "minimum" : 2,
+            "maximum" : 4
+        }
+    }
+}, 
+
+{
+    "id" : 20,
+    "firstName" : "Ondřej",
+    "lastName" : "Válek",
+    "customerValue" : -2,
+    "membershipLevel" : {
+        "id" : 6,
+        "name" : "Nákladový zákazník",
+        "customerValue" : {
+            "minimum" : -100,
+            "maximum" : 0
+        }
+    }
+}     
+]

@@ -1,0 +1,122 @@
+[{
+    "id" : 1,
+    "name" : "Rifle - pánské",
+    "price" : 799,
+    "acquisitionPrice" : 173
+}, 
+{
+    "id" : 2,
+    "name" : "Rifle - dámské",
+    "price" : 699,
+    "acquisitionPrice" : 151
+},
+{
+    "id" : 3,
+    "name" : "Pásek - černý",
+    "price" : 250,
+    "acquisitionPrice" : 79
+},
+
+{
+    "id" : 4,
+    "name" : "Pásek - červený",
+    "price" : 300,
+    "acquisitionPrice" : 94
+},
+{
+    "id" : 5,
+    "name" : "Náušnice",
+    "price" : 150,
+    "acquisitionPrice" : 18
+}, 
+{
+    "id" : 6,
+    "name" : "Tílko s flitry",
+    "price" : 350,
+    "acquisitionPrice" : 144
+},
+
+{
+    "id" : 7,
+    "name" : "Košile s kr. rukávem",
+    "price" : 750,
+    "acquisitionPrice" : 236
+}, 
+{
+    "id" : 8,
+    "name" : "Košile s kr. rukávem",
+    "price" : 550,
+    "acquisitionPrice" : 173
+}, 
+{
+    "id" : 9,
+    "name" : "Rolák - zelený",
+    "price" : 900,
+    "acquisitionPrice" : 371
+},
+{
+    "id" : 10,
+    "name" : "Svetr rozepínací",
+    "price" : 600,
+    "acquisitionPrice" : 247
+},
+{
+    "id" : 11,
+    "name" : "Kravata",
+    "price" : 350,
+    "acquisitionPrice" : 76
+},
+{
+    "id" : 12,
+    "name" : "Sukně riflová",
+    "price" : 600,
+    "acquisitionPrice" : 247
+},
+{
+    "id" : 13,
+    "name" : "Sukně károvaná",
+    "price" : 700,
+    "acquisitionPrice" : 220
+},
+{
+    "id" : 14,
+    "name" : "Kostým - sukně",
+    "price" : 2500,
+    "acquisitionPrice" : 1030
+},
+{
+    "id" : 15,
+    "name" : "Kostým - kalhoty",
+    "price" : 2500,
+    "acquisitionPrice" : 1030
+},
+{
+    "id" : 16,
+    "name" : "Sako - pánské",
+    "price" : 1900,
+    "acquisitionPrice" : 783
+}, 
+{
+    "id" : 17,
+    "name" : "Punčochy",
+    "price" : 150,
+    "acquisitionPrice" : 32
+},
+{
+    "id" : 18,
+    "name" : "Halenka",
+    "price" : 700,
+    "acquisitionPrice" : 220
+},
+{
+    "id" : 19,
+    "name" : "Šála",
+    "price" : 300,
+    "acquisitionPrice" : 65
+},
+{
+    "id" : 20,
+    "name" : "Šaty",
+    "price" : 1600,
+    "acquisitionPrice" : 659
+}]
